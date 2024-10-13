@@ -1,0 +1,8 @@
+Criar pasta e abrir com "Open Git Bash here"
+
+No Git:
+git init - Criar um repositório local
+git remote add origin 'link do git hub'
+git add .
+git commit -m "mensagem de commit"
+git push origin main ou git push -u origin main
